@@ -1,4 +1,6 @@
-# arp_responder
+# ARP Responder
 
-Start the script with the following command
-	python arp_responder.py [list of IPs separated by space]
+>Start the script with the following command
+```
+python arp_responder.py [list of IPs separated by space]
+```
